@@ -1408,8 +1408,8 @@ specified personnel if the temperature is outside of those thresholds.
 
 ### You are developing an Azure Service application that processes queue data when it receives a message from a mobile application. Messages may not be sent to the service consistently. You have the following requirements: Queue size must not grow larger than 80 gigabytes (GB). Use first-in-first-out (FIFO) ordering of messages. Minimize Azure costs. You need to implement the messaging solution. Solution: Use the .Net API to add a message to an Azure Storage Queue from the mobile application. Create an Azure Function App that uses an Azure Storage Queue trigger. Does the solution meet the goal?
 
-- [ ] Yes.
-- [x] No.
+- [x] Yes.
+- [ ] No.
 
 
 
