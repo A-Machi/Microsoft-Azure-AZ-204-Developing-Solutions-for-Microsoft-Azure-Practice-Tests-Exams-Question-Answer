@@ -1183,7 +1183,7 @@
 
 ![Question 124](images/question124.jpg)
 
-- [x] Target: Azure Resource. Gateway credentials: Client cert.
+- [x] Target: Https(s) endpoint. Gateway credentials: Client cert.
 - [ ] Target: Client cert. Gateway credentials: Basic.
 - [ ] Target: Azure Resource. Gateway credentials: Basic.
 - [ ] Target: Basic. Gateway credentials: HTTP(s) endpoint.
